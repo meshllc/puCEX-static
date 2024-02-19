@@ -4,7 +4,7 @@
       <div class="header__logo">
         <nuxt-link :to="`/${lang}`" class="header__logo-link">
           <img :src="this.$config.axios.logo ? this.$config.axios.logo : '/img/logo.png'" class="logo-desc" alt="logo" />
-          <img :src="this.$config.axios.logo ? this.$config.axios.logo : '/img/logo.png'" class="logo-mob" alt="logo" />
+          <img :src="this.$config.axios.logo ? this.$config.axios.logo : '/img/logomob.png'" class="logo-mob" alt="logo" />
         </nuxt-link>
       </div>
       <div class="header__etc flex justify-between flex-no-wrap">

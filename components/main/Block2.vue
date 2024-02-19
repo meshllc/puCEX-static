@@ -2,7 +2,7 @@
   <div class="content block2">
     <div class="grid grid-cols-5 block2-grid">
       <div class="col-span-3">
-        <img class="block3-img" src="/img/laptop.png" />
+        <img class="block3-img" src="/img/laptop1.png" />
       </div>
       <div class="col-span-2 block3-right">
         <h2><span>User-friendly</span> and fast interface</h2>
